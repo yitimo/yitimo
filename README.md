@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Yitimo now has a custom profile, but too b(l)u(a)sy to make it beautiful😅.
+
 <!--
 **yitimo/yitimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
